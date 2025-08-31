@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.typescriptlang.org/" target="blank"><img src="https://share.google/images/dyBP1cC9RRhaoCKkF" width="120" alt="TypeScript Logo" /></a>
+  <a href="https://www.typescriptlang.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="120" alt="TypeScript Logo" /></a>
 </p>
 
 
