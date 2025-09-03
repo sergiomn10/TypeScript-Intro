@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://www.typescriptlang.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="120" alt="TypeScript Logo" /></a>
+</p>
+
+
 # Proyecto de Conceptos de TypeScript
 
 Este proyecto tiene como objetivo ejecutar y demostrar todos los conceptos fundamentales de **TypeScript** a través de ejemplos prácticos. Cada archivo dentro de la carpeta `src/topics` aborda un tema específico del lenguaje, facilitando el aprendizaje y la comprensión de sus características principales.
